@@ -1,0 +1,21 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+.classpath
+# Ignore Gradle build output directory
+build
+
+###IDEA
+*.iml
+.idea
+*.iws
+*.ipr
+/out/
+
+##vscode
+.vscode/
+.settings/
+
+target/
+screenshot/
